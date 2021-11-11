@@ -27,3 +27,18 @@ li {
   margin-left: 10px;
   font-weight: bold;
 }
+
+footer {
+  display: flex;
+  width: 50vw;
+  border: royalblue 1px solid;
+  padding: 10px;
+  margin: 0 auto;
+  justify-content: flex-end;
+}
+
+footer span {
+  display: inline-block;
+  background-size: cover;
+  margin-right: 20px;
+}
