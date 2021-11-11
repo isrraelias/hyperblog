@@ -1,0 +1,2 @@
+A pesar de que github puede subir imagenes estas son archivos binarios y
+las buenas practicas indican que no deben tomarse en cuenta los archivos binarios para subir
