@@ -4,5 +4,6 @@ Un blog increible, sus anotaciones estan en [notas Notion](https://www.notion.so
 ##prueba de git cherry
 *bueno esto es solo un cambio simple
 *cambio y correcion
+\*no olvides revisar las notas del curso en el enlace de arriba
 
 Esto es un readme solo de practica no son los pasos del proyecto :tw-1f605:
