@@ -7,3 +7,5 @@ Un blog increible, sus anotaciones estan en [notas Notion](https://www.notion.so
 \*no olvides revisar las notas del curso en el enlace de arriba
 
 Esto es un readme solo de practica no son los pasos del proyecto :tw-1f605:
+
+Practica colaborativa GitHub 27/11/2021
